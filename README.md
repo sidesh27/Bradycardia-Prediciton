@@ -6,9 +6,9 @@ Deep Learing based prediction of a cardiac arrhythmia (bradycardia) in infants u
 
 ## File description
 
-- [models](./tree/main/models/) -> This directory contains code for EncoderAttention, Encoder with BCE Loss, Fully Convolutional Network, Inception Time, and Sequence-to-Sequence models.
+- [models](./models/) -> This directory contains code for EncoderAttention, Encoder with BCE Loss, Fully Convolutional Network, Inception Time, and Sequence-to-Sequence models.
 
-- [DataExtraction.ipynb](./blob/main/DataExtraction.ipynb) -> This notebook is used for extracting ECG values and annotations from the data files, and storing the retrieved values as `.csv` files.
+- [DataExtraction.ipynb](./DataExtraction.ipynb) -> This notebook is used for extracting ECG values and annotations from the data files, and storing the retrieved values as `.csv` files.
 
 ## References
 
