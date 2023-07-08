@@ -1,4 +1,4 @@
-# Bradycardia-Prediction
+# Deep Learning for Bradycardia Prediction
 
 ## Description
 
